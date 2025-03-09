@@ -1,5 +1,5 @@
 # 5505_Group_Project: RNA Sequencing and Differential Abundance Analysis Pipeline
-
+### Alina Elahie, Aleksandra Maciruta, Kaleem Uddin Mohammed, Rachel Yorke
 ## Overview
 This project analyzes RNA-Seq data from **GSE270472** to study transcriptional deregulation in Huntington's Disease (HD). The pipeline processes sequencing data, identifies differentially expressed genes (DEGs), and performs pathway analysis.
 
